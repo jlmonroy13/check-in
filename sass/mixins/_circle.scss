@@ -1,0 +1,6 @@
+@mixin circle($size) {
+  display: inline-block;
+  height: $size;
+  width: $size;
+  border-radius: 50%;
+}
